@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning coding
 - 🤔 I’m looking for help with nice work for engineer
 - 📫 How to reach me: a0976771103@gmail.com
--->A job seeker transitioning to become a frontend engineer, currently studying at ALPHAcamp.
+-->A job seeker transitioning to become a frontend engineer, currently studying at ALPHAcamp and HexSchool.
